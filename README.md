@@ -1,8 +1,8 @@
 # vue3_01_preset
 
-May rewrite the project name in `package.json` => `"name": "vue3_01_preset",`
+May rewrite the project name in `package.json` of `"name": "vue3_01_preset",`
 
-Also ctrl+shift+F to search for another paths in dirs
+Also `CTRL+SHIFT+F` to search for another paths in dirs
 
 ## Project setup
 
